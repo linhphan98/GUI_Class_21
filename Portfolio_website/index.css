@@ -1,0 +1,55 @@
+.topbar {
+    text-align: center;
+    font-size: 20px;
+    background-color: #E8DAEF;
+    word-spacing: 20px;
+    margin-top: -10px;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.name {
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Lucida Handwriting', Cursive;
+    background: linear-gradient(to bottom left, #db3b3b, #32db46);
+    color: white;
+}
+
+.info {
+    padding-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Handwriting', Cursive;
+}
+
+img {
+    height: 170px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.content {
+    background-image: url("index.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    color: black;
+}

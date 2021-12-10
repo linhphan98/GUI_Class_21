@@ -1,0 +1,11 @@
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+#birthday_countdown{
+  color:  green;
+  border: 2px solid blue;
+  padding: .5em;
+}

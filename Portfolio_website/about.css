@@ -1,0 +1,61 @@
+.topbar {
+    text-align: center;
+    font-size: 20px;
+    background-color: #E8DAEF;
+    word-spacing: 20px;
+    margin-top: -10px;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.name {
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Lucida Handwriting', Cursive;
+    background: linear-gradient(to bottom left, #db3b3b, #32db46);
+    color: white;
+}
+
+.question {
+    text-align: left;
+    font-family: 'Lucida Handwriting', Cursive;
+}
+
+.content {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    overflow: hidden;
+    font-weight: 120;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-family: cursive;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    overflow: hidden;
+    display: flex;
+    object-fit: contain;
+    object-position: 100% 0%;
+}
